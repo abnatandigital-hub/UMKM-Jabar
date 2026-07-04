@@ -1,0 +1,6 @@
+{
+  "name": "UMKM Jabar",
+  "description": "Layanan pemesanan makanan UMKM, transportasi online, dan pembayaran digital terintegrasi untuk wilayah Jawa Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
